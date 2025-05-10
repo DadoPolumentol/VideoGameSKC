@@ -7,7 +7,7 @@ public class player_movement : MonoBehaviour
 {
     private float horizontal;
     private float vertical;
-    private float speed = 8f;
+    private float speed = 4f;
     private bool isFacingRight = true;
     private bool isFacingUp = true;
 

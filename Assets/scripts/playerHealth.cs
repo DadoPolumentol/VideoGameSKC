@@ -8,6 +8,7 @@ public class playerHealth : MonoBehaviour
     public int currentHealth;
     public string enemyLayerName = "Enemy";
     public string sendvicLayerName = "Sendvic";
+    public Animator animator;
     void Start()
     {
         currentHealth = maxHealth;
@@ -39,7 +40,8 @@ public class playerHealth : MonoBehaviour
         healthBar.SetHealth(currentHealth);
         if (currentHealth <= 0)
         {
-            Destroy(gameObject);
+            animator.SetBool("isDead", true);
+            
         }
     }
     // Update is called once per frame

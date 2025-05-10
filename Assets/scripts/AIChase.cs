@@ -5,7 +5,7 @@ using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class AIChase : MonoBehaviour
 {
-    public GameObject player;
+    private Transform player;
     Animator animator;
     private float distance;
     private float horizontal;
@@ -22,6 +22,7 @@ public class AIChase : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     void Start()
     {
+        player = GameObject.FindWithTag("Player").transform;
         animator = GetComponent<Animator>();
     }
 
@@ -30,17 +31,18 @@ public class AIChase : MonoBehaviour
     {
         velocity = (transform.position - lastPosition) / Time.deltaTime;
         lastPosition = transform.position;
-        distance = Vector2.Distance(transform.position, player.transform.position);
-        Vector2 direction = player.transform.position - transform.position;
+        distance = Vector2.Distance(transform.position, player.position);
+        Vector2 direction = player.position - transform.position;
         if (distance < 10 && distance > 4)
         {
-            transform.position = Vector2.MoveTowards(this.transform.position, player.transform.position, speed * Time.deltaTime);
+            transform.position = Vector2.MoveTowards(this.transform.position, player.position, speed * Time.deltaTime);
         }
         Flip();
     }
     private void FixedUpdate()
     {
         animator.SetFloat("xVelocity", Math.Abs(velocity.x));
+        Debug.Log(velocity.x);
             animator.SetFloat("yVelocity", velocity.y);
       
     }
