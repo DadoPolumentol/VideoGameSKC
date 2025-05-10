@@ -1,0 +1,1730 @@
+fileFormatVersion: 2
+guid: acc5eef1034160a43a9f0f0ef2f0c97b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1936123502017849022
+    second: CRAZY_BOSS_IDLE_0
+  - first:
+      213: 1004481868241743778
+    second: CRAZY_BOSS_IDLE_1
+  - first:
+      213: -9213059493810232602
+    second: CRAZY_BOSS_IDLE_2
+  - first:
+      213: 2273183881934511913
+    second: CRAZY_BOSS_IDLE_3
+  - first:
+      213: 3971153119032896755
+    second: CRAZY_BOSS_IDLE_4
+  - first:
+      213: -6019512508188360192
+    second: CRAZY_BOSS_IDLE_5
+  - first:
+      213: -277081735769883530
+    second: CRAZY_BOSS_IDLE_6
+  - first:
+      213: 1589064266079651761
+    second: CRAZY_BOSS_IDLE_7
+  - first:
+      213: -4355256807561336092
+    second: CRAZY_BOSS_IDLE_8
+  - first:
+      213: 6163223529447435711
+    second: CRAZY_BOSS_IDLE_9
+  - first:
+      213: 839736788677693728
+    second: CRAZY_BOSS_IDLE_10
+  - first:
+      213: 4438926670835891827
+    second: CRAZY_BOSS_IDLE_11
+  - first:
+      213: 2191673563028853380
+    second: CRAZY_BOSS_IDLE_12
+  - first:
+      213: -5574636880307395217
+    second: CRAZY_BOSS_IDLE_13
+  - first:
+      213: -6687475510788021167
+    second: CRAZY_BOSS_IDLE_14
+  - first:
+      213: -3577810479048255107
+    second: CRAZY_BOSS_IDLE_15
+  - first:
+      213: 4178601699292889115
+    second: CRAZY_BOSS_IDLE_16
+  - first:
+      213: -4427335679282697148
+    second: CRAZY_BOSS_IDLE_17
+  - first:
+      213: 825438528199419233
+    second: CRAZY_BOSS_IDLE_18
+  - first:
+      213: -906588412659627194
+    second: CRAZY_BOSS_IDLE_19
+  - first:
+      213: 7471160668840210362
+    second: CRAZY_BOSS_IDLE_20
+  - first:
+      213: 4156488715949864259
+    second: CRAZY_BOSS_IDLE_21
+  - first:
+      213: -7726579393309957834
+    second: CRAZY_BOSS_IDLE_22
+  - first:
+      213: 3018143389261827225
+    second: CRAZY_BOSS_IDLE_23
+  - first:
+      213: 905779801370796811
+    second: CRAZY_BOSS_IDLE_24
+  - first:
+      213: -6427529852928637106
+    second: CRAZY_BOSS_IDLE_25
+  - first:
+      213: -4987421768904548618
+    second: CRAZY_BOSS_IDLE_26
+  - first:
+      213: 53443444350365884
+    second: CRAZY_BOSS_IDLE_27
+  - first:
+      213: -7864602955983524452
+    second: CRAZY_BOSS_IDLE_28
+  - first:
+      213: 8459200629183273498
+    second: CRAZY_BOSS_IDLE_29
+  - first:
+      213: -6078887524712027466
+    second: CRAZY_BOSS_IDLE_30
+  - first:
+      213: 2545845670603827619
+    second: CRAZY_BOSS_IDLE_31
+  - first:
+      213: -7034207307282353369
+    second: CRAZY_BOSS_IDLE_32
+  - first:
+      213: -8476595382678505607
+    second: CRAZY_BOSS_IDLE_33
+  - first:
+      213: -7622385086089321318
+    second: CRAZY_BOSS_IDLE_34
+  - first:
+      213: 6114585327090193433
+    second: CRAZY_BOSS_IDLE_35
+  - first:
+      213: -739576690151514523
+    second: CRAZY_BOSS_IDLE_36
+  - first:
+      213: 7920807740659203746
+    second: CRAZY_BOSS_IDLE_37
+  - first:
+      213: 8362150666970745395
+    second: CRAZY_BOSS_IDLE_38
+  - first:
+      213: -217380796694331861
+    second: CRAZY_BOSS_IDLE_39
+  - first:
+      213: -1285270876846872751
+    second: CRAZY_BOSS_IDLE_40
+  - first:
+      213: -6209100461163039092
+    second: CRAZY_BOSS_IDLE_41
+  - first:
+      213: -6561161010217809676
+    second: CRAZY_BOSS_IDLE_42
+  - first:
+      213: 3723390101827423256
+    second: CRAZY_BOSS_IDLE_43
+  - first:
+      213: 7528970434746706666
+    second: CRAZY_BOSS_IDLE_44
+  - first:
+      213: 4779753765677970343
+    second: CRAZY_BOSS_IDLE_45
+  - first:
+      213: -5253320556270621167
+    second: CRAZY_BOSS_IDLE_46
+  - first:
+      213: -5396208912553628787
+    second: CRAZY_BOSS_IDLE_47
+  - first:
+      213: -951582989396835598
+    second: CRAZY_BOSS_IDLE_48
+  - first:
+      213: -3113242856076296518
+    second: CRAZY_BOSS_IDLE_49
+  - first:
+      213: -7238815091803061408
+    second: CRAZY_BOSS_IDLE_50
+  - first:
+      213: -1613758633434582999
+    second: CRAZY_BOSS_IDLE_51
+  - first:
+      213: 1164657051670834116
+    second: CRAZY_BOSS_IDLE_52
+  - first:
+      213: -4059028429289005101
+    second: CRAZY_BOSS_IDLE_53
+  - first:
+      213: 6431705666871849307
+    second: CRAZY_BOSS_IDLE_54
+  - first:
+      213: 7438436311933794758
+    second: CRAZY_BOSS_IDLE_55
+  - first:
+      213: -4159677940768597249
+    second: CRAZY_BOSS_IDLE_56
+  - first:
+      213: -2823842607469224504
+    second: CRAZY_BOSS_IDLE_57
+  - first:
+      213: 3704854999134093282
+    second: CRAZY_BOSS_IDLE_58
+  - first:
+      213: 2185742226169730061
+    second: CRAZY_BOSS_IDLE_59
+  - first:
+      213: -2614507319199650024
+    second: CRAZY_BOSS_IDLE_60
+  - first:
+      213: 4532052550850697330
+    second: CRAZY_BOSS_IDLE_61
+  - first:
+      213: -1607418034019544834
+    second: CRAZY_BOSS_IDLE_62
+  - first:
+      213: -5149036369247346114
+    second: CRAZY_BOSS_IDLE_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 672
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d0f4dee18125e0800000000000000
+      internalID: -1936123502017849022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afaedbefe2a0fd00800000000000000
+      internalID: 1004481868241743778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 672
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2a6e80433a42080800000000000000
+      internalID: -9213059493810232602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 672
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f99df52b8fb8f10800000000000000
+      internalID: 2273183881934511913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 672
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fce3a0c8be5c1730800000000000000
+      internalID: 3971153119032896755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 672
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002896c3445667ca0800000000000000
+      internalID: -6019512508188360192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 672
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cffad11ab972cf0800000000000000
+      internalID: -277081735769883530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 672
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c1f0e78d7d0610800000000000000
+      internalID: 1589064266079651761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 576
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea64b732050f83c0800000000000000
+      internalID: -4355256807561336092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 576
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd2b08552b288550800000000000000
+      internalID: 6163223529447435711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 576
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02116f1092857ab00800000000000000
+      internalID: 839736788677693728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 576
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e3e27e94c3a9d30800000000000000
+      internalID: 4438926670835891827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 576
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48213fb5e736a6e10800000000000000
+      internalID: 2191673563028853380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 576
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f656c750b49e2a2b0800000000000000
+      internalID: -5574636880307395217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 576
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1542b5764705133a0800000000000000
+      internalID: -6687475510788021167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 576
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7998aa4350195ec0800000000000000
+      internalID: -3577810479048255107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 480
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1042383b106df930800000000000000
+      internalID: 4178601699292889115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c21fe18a1fe82c0800000000000000
+      internalID: -4427335679282697148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 480
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1656f31d7fb847b00800000000000000
+      internalID: 825438528199419233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 480
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b00f954a62b63f0800000000000000
+      internalID: -906588412659627194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 480
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf271e5b05eea760800000000000000
+      internalID: 7471160668840210362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 480
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3457c131770dea930800000000000000
+      internalID: 4156488715949864259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_22
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 480
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63128ec9afca5c490800000000000000
+      internalID: -7726579393309957834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_23
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 480
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0526fb6992e920800000000000000
+      internalID: 3018143389261827225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 384
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b032e692ee9f19c00800000000000000
+      internalID: 905779801370796811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4748fc37a3dcc6a0800000000000000
+      internalID: -6427529852928637106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 384
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fed46f535e19cab0800000000000000
+      internalID: -4987421768904548618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 384
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0b31c878eddb000800000000000000
+      internalID: 53443444350365884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 384
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d6d1da7415bd290800000000000000
+      internalID: -7864602955983524452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 384
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ada3a472e156570800000000000000
+      internalID: 8459200629183273498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 384
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba6cfbe00473aba0800000000000000
+      internalID: -6078887524712027466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_31
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 384
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9ae412629a45320800000000000000
+      internalID: 2545845670603827619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 288
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7237afc09b9716e90800000000000000
+      internalID: -7034207307282353369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9773bbe09651d5a80800000000000000
+      internalID: -8476595382678505607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94296a3629d73690800000000000000
+      internalID: -7622385086089321318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 288
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914d60265fe5bd450800000000000000
+      internalID: 6114585327090193433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 288
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e1c533bee7cb5f0800000000000000
+      internalID: -739576690151514523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 288
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef7248cac5ced60800000000000000
+      internalID: 7920807740659203746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_38
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 288
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a461f1ab35c0470800000000000000
+      internalID: 8362150666970745395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_39
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 288
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2efa003155bbfcf0800000000000000
+      internalID: -217380796694331861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157236972fcc92ee0800000000000000
+      internalID: -1285270876846872751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86b9ad1708d4d9a0800000000000000
+      internalID: -6209100461163039092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 192
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f803dfd2d212f4a0800000000000000
+      internalID: -6561161010217809676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c01abf1932ca330800000000000000
+      internalID: 3723390101827423256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 192
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaee7f58b64c7860800000000000000
+      internalID: 7528970434746706666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 192
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a33215c9b8155240800000000000000
+      internalID: 4779753765677970343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 192
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6b3099c47817b0800000000000000
+      internalID: -5253320556270621167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_47
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 192
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba1799590dc15b0800000000000000
+      internalID: -5396208912553628787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 96
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f282b6105c4bc2f0800000000000000
+      internalID: -951582989396835598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abebc08fd1a8bc4d0800000000000000
+      internalID: -3113242856076296518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 96
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0638752e6009a8b90800000000000000
+      internalID: -7238815091803061408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92079eca217ca99e0800000000000000
+      internalID: -1613758633434582999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_52
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 96
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb6ef9fa61b92010800000000000000
+      internalID: 1164657051670834116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 96
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df5403362f6ba7c0800000000000000
+      internalID: -4059028429289005101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_54
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 96
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5173c53a32024950800000000000000
+      internalID: 6431705666871849307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_55
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 96
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c93e294a62aa3760800000000000000
+      internalID: 7438436311933794758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa9578a3fad546c0800000000000000
+      internalID: -4159677940768597249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd1f202c12bfc8d0800000000000000
+      internalID: -2823842607469224504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_58
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efb7b71ef94a6330800000000000000
+      internalID: 3704854999134093282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_59
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d041b6169f0555e10800000000000000
+      internalID: 2185742226169730061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_60
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f2278027767bbd0800000000000000
+      internalID: -2614507319199650024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_61
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278dbdc78c515ee30800000000000000
+      internalID: 4532052550850697330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_62
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef055b480dd41b9e0800000000000000
+      internalID: -1607418034019544834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CRAZY_BOSS_IDLE_63
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32e173f3b2fa88b0800000000000000
+      internalID: -5149036369247346114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
