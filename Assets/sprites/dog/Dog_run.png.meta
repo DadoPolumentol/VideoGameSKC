@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dog_run_0: 5844619842546032577
+      Dog_run_1: -2059448522436083907
+      Dog_run_10: 5765991046721464393
+      Dog_run_11: -8850391135314078102
+      Dog_run_2: -8079389409604681405
+      Dog_run_3: 2780048553744524593
+      Dog_run_4: -4754558879714321670
+      Dog_run_5: -5180550282279882249
+      Dog_run_6: 3076194407671952406
+      Dog_run_7: 1567474754067659481
+      Dog_run_8: -6252732980496293506
+      Dog_run_9: 1445735694353461409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -7,6 +7,9 @@ public class EnemyShooter : MonoBehaviour
 
     private float timer;
     private GameObject player;
+
+    private Vector3 lastPosition;
+    public Vector3 velocity;
     void Start()
     {
         player = GameObject.FindWithTag("Player");
@@ -15,9 +18,10 @@ public class EnemyShooter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        velocity = (transform.position - lastPosition) / Time.deltaTime;
+        lastPosition = transform.position;
         float distance = Vector2.Distance(transform.position, player.transform.position);
-        if(distance < 10)
+        if(distance < 10 && velocity.x<0.5 && velocity.y <0.5)
         {
             timer += Time.deltaTime;
             if (timer > 1)
