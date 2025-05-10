@@ -9,8 +9,12 @@ public class playerHealth : MonoBehaviour
     public string enemyLayerName = "Enemy";
     public string sendvicLayerName = "Sendvic";
     public Animator animator;
+    private SpriteRenderer sr;
+    private Color originalColor;
     void Start()
     {
+        sr = GetComponent<SpriteRenderer>();
+        originalColor = sr.color;
         currentHealth = maxHealth;
         healthBar.SetHealth(maxHealth);
     }
@@ -38,11 +42,27 @@ public class playerHealth : MonoBehaviour
     {
          currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
+
         if (currentHealth <= 0)
         {
             animator.SetBool("isDead", true);
             
         }
+        else
+        {
+            FlashRed();
+        }
+    }
+    public void FlashRed()
+    {
+        StartCoroutine(FlashCoroutine());
+    }
+
+    private System.Collections.IEnumerator FlashCoroutine()
+    {
+        sr.color = Color.red;
+        yield return new WaitForSeconds(0.3f);
+        sr.color = originalColor;
     }
     // Update is called once per frame
     void Update()
