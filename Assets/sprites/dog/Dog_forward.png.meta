@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 36f9f5212b5c5a3408465e5042386004
+guid: 99b2925556cde404d9d666de5e6c91a4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7932798033344189819
-    second: grass_0
+      213: -1345474945041158299
+    second: Dog_forward_0
+  - first:
+      213: -5102680422927725127
+    second: Dog_forward_1
+  - first:
+      213: 2848693653250397037
+    second: Dog_forward_2
+  - first:
+      213: 6527772860829584152
+    second: Dog_forward_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,12 +122,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: grass_0
+      name: Dog_forward_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
+        x: 9
+        y: 34
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f22a68aa9e35de0800000000000000
+      internalID: -1345474945041158299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_forward_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 14
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,8 +159,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b75d56418c5f61e60800000000000000
-      internalID: 7932798033344189819
+      spriteID: 9bd8d05c033af29b0800000000000000
+      internalID: -5102680422927725127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_forward_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6356ebd8c7988720800000000000000
+      internalID: 2848693653250397037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_forward_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bce20d4de479a50800000000000000
+      internalID: 6527772860829584152
       vertices: []
       indices: 
       edges: []

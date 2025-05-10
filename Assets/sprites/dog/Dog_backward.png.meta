@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 36f9f5212b5c5a3408465e5042386004
+guid: fefa8bb65b93fe245a16d2b27ed034bd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7932798033344189819
-    second: grass_0
+      213: -1043634554488058657
+    second: Dog_backward_0
+  - first:
+      213: 6312074124929184137
+    second: Dog_backward_1
+  - first:
+      213: -5054166368018873412
+    second: Dog_backward_2
+  - first:
+      213: -3174162828880353694
+    second: Dog_backward_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: grass_0
+      name: Dog_backward_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 8
+        y: 34
+        width: 16
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b75d56418c5f61e60800000000000000
-      internalID: 7932798033344189819
+      spriteID: fdc8a60f6e34481f0800000000000000
+      internalID: -1043634554488058657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_backward_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b65c49fdf89750800000000000000
+      internalID: 6312074124929184137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_backward_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb34286677efbd9b0800000000000000
+      internalID: -5054166368018873412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_backward_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266665d79bb13f3d0800000000000000
+      internalID: -3174162828880353694
       vertices: []
       indices: 
       edges: []
