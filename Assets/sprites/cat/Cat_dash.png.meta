@@ -1,49 +1,43 @@
 fileFormatVersion: 2
-guid: 90d0ef4e509ee564ba7e09adaa4a25c9
+guid: 3f6ec91932c50af4597a0554d603cedb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5405161530189466311
-    second: Cat_backward_walk_0
+      213: -7291189603444412507
+    second: Cat_dash_0
   - first:
-      213: -1419333095016758531
-    second: Cat_backward_walk_1
+      213: -1227891883298400458
+    second: Cat_dash_1
   - first:
-      213: -1564441638244687025
-    second: Cat_backward_walk_2
+      213: 8635460715130615408
+    second: Cat_dash_2
   - first:
-      213: -3749768374229478115
-    second: Cat_backward_walk_3
+      213: -3338585036883181826
+    second: Cat_dash_3
   - first:
-      213: -870226436243749507
-    second: Cat_backward_walk_4
+      213: 3189390036000013801
+    second: Cat_dash_4
   - first:
-      213: 4603224078616509715
-    second: Cat_backward_walk_5
+      213: -3900061882670287259
+    second: Cat_dash_5
   - first:
-      213: 1794746694388362496
-    second: Cat_backward_walk_6
+      213: 4165022508596655234
+    second: Cat_dash_6
   - first:
-      213: 139598763036624652
-    second: Cat_backward_walk_7
+      213: 8804188456828366065
+    second: Cat_dash_7
   - first:
-      213: 4525443469006825483
-    second: Cat_backward_walk_8
+      213: -3231358760717053365
+    second: Cat_dash_8
   - first:
-      213: 1403277860939860574
-    second: Cat_backward_walk_9
+      213: -6603686645151850962
+    second: Cat_dash_9
   - first:
-      213: 3864712919473423212
-    second: Cat_backward_walk_10
+      213: -8442547520097054366
+    second: Cat_dash_10
   - first:
-      213: 4213689744352034109
-    second: Cat_backward_walk_11
-  - first:
-      213: -5659383749673504386
-    second: Cat_backward_walk_12
-  - first:
-      213: 1600505024864896763
-    second: Cat_backward_walk_13
+      213: -4954319439964694036
+    second: Cat_dash_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -136,19 +130,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -165,12 +146,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cat_backward_walk_0
+      name: Cat_dash_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 2
+        y: 100
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afaca0afad70da90800000000000000
+      internalID: -7291189603444412507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_dash_1
+      rect:
+        serializedVersion: 2
+        x: 35
         y: 101
-        width: 16
+        width: 25
         height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -180,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7cacc8026cdf20b40800000000000000
-      internalID: 5405161530189466311
+      spriteID: 637d96976d6a5fee0800000000000000
+      internalID: -1227891883298400458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_1
+      name: Cat_dash_2
       rect:
         serializedVersion: 2
-        x: 40
+        x: 64
         y: 101
-        width: 16
-        height: 22
+        width: 28
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,64 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df2029de1148d4ce0800000000000000
-      internalID: -1419333095016758531
+      spriteID: 076733d84c157d770800000000000000
+      internalID: 8635460715130615408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_2
+      name: Cat_dash_3
       rect:
         serializedVersion: 2
-        x: 72
-        y: 101
-        width: 16
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4368986e9cf94ae0800000000000000
-      internalID: -1564441638244687025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cat_backward_walk_3
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 101
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d15de00e78526fbc0800000000000000
-      internalID: -3749768374229478115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cat_backward_walk_4
-      rect:
-        serializedVersion: 2
-        x: 8
+        x: 3
         y: 69
-        width: 16
-        height: 23
+        width: 27
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +227,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d758989baa55ce3f0800000000000000
-      internalID: -870226436243749507
+      spriteID: efeb428f896faa1d0800000000000000
+      internalID: -3338585036883181826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_5
+      name: Cat_dash_4
       rect:
         serializedVersion: 2
         x: 40
         y: 69
-        width: 16
-        height: 23
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,41 +249,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31d367b19efe1ef30800000000000000
-      internalID: 4603224078616509715
+      spriteID: 9ed73f1f65df24c20800000000000000
+      internalID: 3189390036000013801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_6
+      name: Cat_dash_5
       rect:
         serializedVersion: 2
-        x: 72
-        y: 69
-        width: 16
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00d23dc0c9838e810800000000000000
-      internalID: 1794746694388362496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cat_backward_walk_7
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 69
-        width: 16
+        x: 71
+        y: 72
+        width: 20
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -334,20 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c07c1e9d554ffe100800000000000000
-      internalID: 139598763036624652
+      spriteID: 5667561916230e9c0800000000000000
+      internalID: -3900061882670287259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_8
+      name: Cat_dash_6
       rect:
         serializedVersion: 2
-        x: 8
-        y: 37
-        width: 16
-        height: 21
+        x: 2
+        y: 39
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,19 +293,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b086345bbda9dce30800000000000000
-      internalID: 4525443469006825483
+      spriteID: 284f86287e12dc930800000000000000
+      internalID: 4165022508596655234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_9
+      name: Cat_dash_7
       rect:
         serializedVersion: 2
-        x: 40
-        y: 37
-        width: 16
+        x: 37
+        y: 34
+        width: 20
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -378,20 +315,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5a8d7697c1797310800000000000000
-      internalID: 1403277860939860574
+      spriteID: 1fc69d041c2ce2a70800000000000000
+      internalID: 8804188456828366065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_10
+      name: Cat_dash_8
       rect:
         serializedVersion: 2
         x: 72
         y: 37
-        width: 16
-        height: 23
+        width: 22
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,42 +337,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6383149ce732a530800000000000000
-      internalID: 3864712919473423212
+      spriteID: b421d9dd358e723d0800000000000000
+      internalID: -3231358760717053365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_11
+      name: Cat_dash_9
       rect:
         serializedVersion: 2
-        x: 104
-        y: 37
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3d3fc55f780a7a30800000000000000
-      internalID: 4213689744352034109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cat_backward_walk_12
-      rect:
-        serializedVersion: 2
-        x: 8
+        x: 3
         y: 5
-        width: 16
-        height: 21
+        width: 27
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,20 +359,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e71b711e674d571b0800000000000000
-      internalID: -5659383749673504386
+      spriteID: e2e9bbbebfdfa54a0800000000000000
+      internalID: -6603686645151850962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat_backward_walk_13
+      name: Cat_dash_10
       rect:
         serializedVersion: 2
-        x: 40
+        x: 32
         y: 5
-        width: 16
-        height: 22
+        width: 28
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,8 +381,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf6cc4c17d2263610800000000000000
-      internalID: 1600505024864896763
+      spriteID: 2619241d2cb06da80800000000000000
+      internalID: -8442547520097054366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_dash_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9971de7b8be3bb0800000000000000
+      internalID: -4954319439964694036
       vertices: []
       indices: 
       edges: []
@@ -485,21 +422,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Cat_backward_walk_0: 5405161530189466311
-      Cat_backward_walk_1: -1419333095016758531
-      Cat_backward_walk_10: 3864712919473423212
-      Cat_backward_walk_11: 4213689744352034109
-      Cat_backward_walk_12: -5659383749673504386
-      Cat_backward_walk_13: 1600505024864896763
-      Cat_backward_walk_2: -1564441638244687025
-      Cat_backward_walk_3: -3749768374229478115
-      Cat_backward_walk_4: -870226436243749507
-      Cat_backward_walk_5: 4603224078616509715
-      Cat_backward_walk_6: 1794746694388362496
-      Cat_backward_walk_7: 139598763036624652
-      Cat_backward_walk_8: 4525443469006825483
-      Cat_backward_walk_9: 1403277860939860574
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
