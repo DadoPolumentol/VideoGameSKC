@@ -19,6 +19,7 @@ public class player_movement : MonoBehaviour
     public TrailRenderer trailRenderer;
     public bool isKeyPressed = false;
 
+    Animator animator;
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private LayerMask groundLayer;
 
@@ -29,7 +30,7 @@ public class player_movement : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-      
+      animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -44,7 +45,8 @@ public class player_movement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.AddForce(new Vector2(horizontal * speed, vertical * speed));
-
+        animator.SetFloat("xVelocity",Math.Abs(rb.totalForce.x));
+        animator.SetFloat("yVelocity", rb.totalForce.y);
     }
     private void Flip()
     {
