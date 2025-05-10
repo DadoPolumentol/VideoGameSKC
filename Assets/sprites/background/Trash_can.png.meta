@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6eea677802679c148a89aa9b1d779b80
+guid: 43652a4c28ae59a4dbe180b9dfe457e3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4296193443984631328
-    second: Bush_0
+      213: 3551662520441110398
+    second: Trash_can_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bush_0
+      name: Trash_can_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 32
         width: 32
-        height: 29
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 026e013dc252f9b30800000000000000
-      internalID: 4296193443984631328
+      spriteID: e7ff5fcae3a0a4130800000000000000
+      internalID: 3551662520441110398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_can_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfbd6069425bb24da5982379f4ded88
+      internalID: 496244096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_can_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d27754cafd8824eb125975f10211c5
+      internalID: -474206845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash_can_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75602d4e730a55f4ca596548911f561b
+      internalID: 525955993
       vertices: []
       indices: 
       edges: []
@@ -138,7 +204,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: df842613e82fc804aa73cd3e4aed116f
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +214,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bush_0: 4296193443984631328
+      Trash_can_0: 3551662520441110398
+      Trash_can_1: 496244096
+      Trash_can_2: -474206845
+      Trash_can_3: 525955993
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

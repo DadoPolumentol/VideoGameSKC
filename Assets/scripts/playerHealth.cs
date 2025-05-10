@@ -61,7 +61,7 @@ public class playerHealth : MonoBehaviour
     private System.Collections.IEnumerator FlashCoroutine()
     {
         sr.color = Color.red;
-        yield return new WaitForSeconds(0.3f);
+        yield return new WaitForSeconds(0.3f); 
         sr.color = originalColor;
     }
     // Update is called once per frame

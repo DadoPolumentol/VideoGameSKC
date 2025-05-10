@@ -19,13 +19,31 @@ public class enemyHP : MonoBehaviour
     public void TakeDamage(int health)
     {
         animator.SetTrigger("hurt");
+        
         currentHealth -= health;
-        if(currentHealth <= 0)
+        try
+        {
+            animator.SetInteger("boss_hp", currentHealth);
+            Debug.Log(currentHealth);
+        }
+        catch
+        {
+        
+        }
+        
+        if (currentHealth <= 0)
         {
             animator.SetBool("isDead",true);
             GetComponent<Collider2D>().enabled = false;
-            GetComponent<AIChase>().enabled = false;
-            GetComponent<EnemyShooter>().enabled = false;
+            try
+            {
+                GetComponent<AIChase>().enabled = false;
+                GetComponent<EnemyShooter>().enabled = false;
+            }
+            catch
+            {
+                Debug.Log("lol");
+            }
             this.enabled = false;   
            
             
