@@ -66,6 +66,7 @@ public class player_movement : MonoBehaviour
     {
         if(isKeyPressed && canDash)
         {
+            animator.SetTrigger("dash");
             Debug.Log("radi");
             StartCoroutine(DashCoroutine());
             
