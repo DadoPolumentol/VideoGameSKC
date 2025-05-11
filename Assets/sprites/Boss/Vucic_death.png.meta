@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 4fa9345b204f9f345ac9ac962513411e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8907949852242872081
+    second: Vucic_death_0
+  - first:
+      213: -7529769798970880682
+    second: Vucic_death_1
+  - first:
+      213: -1308652442936528179
+    second: Vucic_death_2
+  - first:
+      213: -6006274399024327526
+    second: Vucic_death_3
+  - first:
+      213: -18272665306066283
+    second: Vucic_death_4
+  - first:
+      213: -7053052787739458196
+    second: Vucic_death_5
+  - first:
+      213: -5354253305699642737
+    second: Vucic_death_6
+  - first:
+      213: -5186195646449828035
+    second: Vucic_death_7
+  - first:
+      213: 6560859376498941827
+    second: Vucic_death_8
+  - first:
+      213: -783512984269442290
+    second: Vucic_death_9
+  - first:
+      213: -44689975621290781
+    second: Vucic_death_10
+  - first:
+      213: 19470033301481769
+    second: Vucic_death_11
+  - first:
+      213: -1593599617690922539
+    second: Vucic_death_12
+  - first:
+      213: 5585040917729527184
+    second: Vucic_death_13
+  - first:
+      213: 1860353949742728398
+    second: Vucic_death_14
+  - first:
+      213: -2880962772386263200
+    second: Vucic_death_15
+  - first:
+      213: -1363718528527375938
+    second: Vucic_death_16
+  - first:
+      213: 248927618173254904
+    second: Vucic_death_17
+  - first:
+      213: -1116406061380813149
+    second: Vucic_death_18
+  - first:
+      213: 7593212185148018784
+    second: Vucic_death_19
+  - first:
+      213: 5350201526422116182
+    second: Vucic_death_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vucic_death_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8f1144eca906480800000000000000
+      internalID: -8907949852242872081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 289
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d40e32342e08790800000000000000
+      internalID: -7529769798970880682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 289
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc23254698bb6dde0800000000000000
+      internalID: -1308652442936528179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 289
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94d1a6b14d65aca0800000000000000
+      internalID: -6006274399024327526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 289
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59215539b151fbff0800000000000000
+      internalID: -18272665306066283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 289
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6506b4bbd58e1e90800000000000000
+      internalID: -7053052787739458196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82df4c8cfed1b5b0800000000000000
+      internalID: -5354253305699642737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 193
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3ea5898ee608b0800000000000000
+      internalID: -5186195646449828035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 193
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f928d87dadc0b50800000000000000
+      internalID: 6560859376498941827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 193
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03b6bf87176025f0800000000000000
+      internalID: -783512984269442290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 193
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4721634ba316ff0800000000000000
+      internalID: -44689975621290781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 193
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92923b264eb254000800000000000000
+      internalID: 19470033301481769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d19559479562e9e0800000000000000
+      internalID: -1593599617690922539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954a45bf1d028d40800000000000000
+      internalID: 5585040917729527184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 97
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec409ea8f0e41d910800000000000000
+      internalID: 1860353949742728398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 97
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fcacc5f93c408d0800000000000000
+      internalID: -2880962772386263200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 97
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1e18d3939131de0800000000000000
+      internalID: -1363718528527375938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 97
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc3000995e547300800000000000000
+      internalID: 248927618173254904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aebd462a9ab180f0800000000000000
+      internalID: -1116406061380813149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605ae77042806960800000000000000
+      internalID: 7593212185148018784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vucic_death_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657942311fbbf3a40800000000000000
+      internalID: 5350201526422116182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vucic_death_0: -8907949852242872081
+      Vucic_death_1: -7529769798970880682
+      Vucic_death_10: -44689975621290781
+      Vucic_death_11: 19470033301481769
+      Vucic_death_12: -1593599617690922539
+      Vucic_death_13: 5585040917729527184
+      Vucic_death_14: 1860353949742728398
+      Vucic_death_15: -2880962772386263200
+      Vucic_death_16: -1363718528527375938
+      Vucic_death_17: 248927618173254904
+      Vucic_death_18: -1116406061380813149
+      Vucic_death_19: 7593212185148018784
+      Vucic_death_2: -1308652442936528179
+      Vucic_death_20: 5350201526422116182
+      Vucic_death_3: -6006274399024327526
+      Vucic_death_4: -18272665306066283
+      Vucic_death_5: -7053052787739458196
+      Vucic_death_6: -5354253305699642737
+      Vucic_death_7: -5186195646449828035
+      Vucic_death_8: 6560859376498941827
+      Vucic_death_9: -783512984269442290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
