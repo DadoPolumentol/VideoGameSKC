@@ -19,4 +19,8 @@ public class MainMenu : MonoBehaviour
             tut.SetActive(false);
         }
     }
+    public void Menu()
+    {
+        SceneManager.LoadScene(0);
+    }
 }

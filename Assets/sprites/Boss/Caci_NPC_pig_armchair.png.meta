@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -116,10 +116,10 @@ TextureImporter:
       name: Caci_NPC_pig_armchair_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 1
-        width: 46
-        height: 83
+        x: 11
+        y: 290
+        width: 44
+        height: 81
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,6 +130,512 @@ TextureImporter:
       bones: []
       spriteID: 19e67aafce21b3850800000000000000
       internalID: 6357696107990445713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 290
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c13eedd7a5fd46bf90648fb308f66
+      internalID: -326525616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 290
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f194160e1e3f4c86847f152c411fe
+      internalID: 1377765513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 290
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cccb4bcb37e1d4ca257ae2d052f8f4
+      internalID: -1221668722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 289
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ed2637968833d4bb9607b8cc9dbbdc
+      internalID: 1943198357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 289
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6332c3af935fc5d458b82d901e1e8883
+      internalID: -458315097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 193
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd52f74cbd39e1040881b2ae9052e200
+      internalID: -996324730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 193
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e65039afcb5b40a479e858e622128
+      internalID: -886537804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 193
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a5bec5e89524046b53e48950be429f
+      internalID: 76321510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 193
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b388dccd832f4b4891ac925f2582a2c
+      internalID: 1128120113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe94e4989552f94bbd8db604e5715f2
+      internalID: 461489395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5bd7dbac407534389000bc66df7a80
+      internalID: 1533147617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1233da63f525c542ab126f1b9635ae3
+      internalID: -1724468634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5a0643b8eef048b4ce5b0ef138dd0
+      internalID: 1812578503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 97
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d221748b21e424e9982f1e39c3a618
+      internalID: 40340767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 97
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac27a3fa29da9124d8f9ff073cde4bd7
+      internalID: -561485254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58708cf69eddea747a7f49964d2fdb59
+      internalID: 61385015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 97
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc597f3e59ca58c4291fdf732fbe24e9
+      internalID: 2109040265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116176994b75cfc408cfbf6e22504293
+      internalID: 1442840435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f731d6c8ef661d4d9e8c54423eb0a52
+      internalID: -146996242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dfdd0630a518945bf15f0b97677588
+      internalID: 63104619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d54e258a26c234192df750d9463117
+      internalID: 718342549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81e1cd30ec5a9468787f27e7306b49
+      internalID: 832818389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3ea75df70b8e47915dfe1b834552d
+      internalID: -1827589259
       vertices: []
       indices: 
       edges: []
@@ -149,6 +655,29 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Caci_NPC_pig_armchair_0: 6357696107990445713
+      Caci_NPC_pig_armchair_1: -326525616
+      Caci_NPC_pig_armchair_10: 461489395
+      Caci_NPC_pig_armchair_11: 1533147617
+      Caci_NPC_pig_armchair_12: -1724468634
+      Caci_NPC_pig_armchair_13: 1812578503
+      Caci_NPC_pig_armchair_14: 40340767
+      Caci_NPC_pig_armchair_15: -561485254
+      Caci_NPC_pig_armchair_16: 61385015
+      Caci_NPC_pig_armchair_17: 2109040265
+      Caci_NPC_pig_armchair_18: 1442840435
+      Caci_NPC_pig_armchair_19: -146996242
+      Caci_NPC_pig_armchair_2: 1377765513
+      Caci_NPC_pig_armchair_20: 63104619
+      Caci_NPC_pig_armchair_21: 718342549
+      Caci_NPC_pig_armchair_22: 832818389
+      Caci_NPC_pig_armchair_23: -1827589259
+      Caci_NPC_pig_armchair_3: -1221668722
+      Caci_NPC_pig_armchair_4: 1943198357
+      Caci_NPC_pig_armchair_5: -458315097
+      Caci_NPC_pig_armchair_6: -996324730
+      Caci_NPC_pig_armchair_7: -886537804
+      Caci_NPC_pig_armchair_8: 76321510
+      Caci_NPC_pig_armchair_9: 1128120113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

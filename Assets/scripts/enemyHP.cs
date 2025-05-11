@@ -25,7 +25,7 @@ public class enemyHP : MonoBehaviour
         try
         {
             animator.SetInteger("boss_hp", currentHealth);
-            Debug.Log(currentHealth);
+            
         }
         catch
         {
