@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Boss
   - Health
+  - Audio
   layers:
   - Default
   - TransparentFX

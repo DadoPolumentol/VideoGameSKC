@@ -157,6 +157,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 492bf86219935a840b6ead0e057279a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sendvic_sfx: {fileID: 8300000, guid: 45d45ec79824a484bb488a2bb36725c4, type: 3}
   Boss_sendvic: {fileID: 2249475940406356690, guid: 1d6e07dea1f18fc44bfae13841470359, type: 3}
   numberToSpawn: 7
   radius: 1

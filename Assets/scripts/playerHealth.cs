@@ -4,7 +4,9 @@ public class playerHealth : MonoBehaviour
 {
     public Healthbar healthBar;
     public GameObject gameOverScreen;
-
+    public AudioClip playerDamage_sfx;
+    private SFXscript SFX;
+    private GameObject SFX_gameobject;
     public int maxHealth = 100;
     public int currentHealth;
     public string enemyLayerName = "Enemy";
@@ -14,6 +16,8 @@ public class playerHealth : MonoBehaviour
     private Color originalColor;
     void Start()
     {
+        SFX = GameObject.FindGameObjectWithTag("Audio").GetComponent<SFXscript>();
+        SFX_gameobject = GameObject.FindGameObjectWithTag("Audio");
         gameOverScreen.SetActive(false);
         sr = GetComponent<SpriteRenderer>();
         originalColor = sr.color;
@@ -26,7 +30,7 @@ public class playerHealth : MonoBehaviour
         if (collision.gameObject.layer == LayerMask.NameToLayer(enemyLayerName))
         {
          
-            TakeDamage(20);
+            TakeDamage(5);
         }
  
     }
@@ -43,12 +47,15 @@ public class playerHealth : MonoBehaviour
     public void TakeDamage(int damage)
     {
          currentHealth -= damage;
+        SFX.PlayClip(playerDamage_sfx);
         healthBar.SetHealth(currentHealth);
 
         if (currentHealth <= 0)
         {
             animator.SetBool("isDead", true);
-            gameOverScreen.SetActive(true);   
+            SFX_gameobject.SetActive(false);
+            gameOverScreen.SetActive(true);
+            
             
             
         }

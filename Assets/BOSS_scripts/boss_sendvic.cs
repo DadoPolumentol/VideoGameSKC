@@ -1,9 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class boss_sendvic : StateMachineBehaviour
 {
+    public AudioClip sendvic_sfx;
+    private SFXscript SFX;
+
     public GameObject Boss_sendvic;
     public int numberToSpawn = 8;
     public float radius = 5f;
@@ -17,6 +21,7 @@ public class boss_sendvic : StateMachineBehaviour
        player1 = GameObject.FindGameObjectWithTag("Player").transform;
        rb = animator.GetComponent<Rigidbody2D>();
         boss = animator.GetComponent<Transform>();
+        SFX = GameObject.FindGameObjectWithTag("Audio").GetComponent<SFXscript>();
 
     }
 
@@ -24,7 +29,7 @@ public class boss_sendvic : StateMachineBehaviour
     {
       
         timer += Time.deltaTime;
-        if (timer > 3)
+        if (timer > 3 && Vector2.Distance(player1.position, boss.position) <10f)
         {
             timer = 0;
             Shoot();
@@ -39,6 +44,7 @@ public class boss_sendvic : StateMachineBehaviour
     }
     void Shoot()
     {
+        SFX.PlayClip(sendvic_sfx);
         Vector3 center = boss.position;
         center.z = 0;
         for (int i = 0; i < numberToSpawn; i++)
