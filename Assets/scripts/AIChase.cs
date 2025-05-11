@@ -42,7 +42,7 @@ public class AIChase : MonoBehaviour
     private void FixedUpdate()
     {
         animator.SetFloat("xVelocity", Math.Abs(velocity.x));
-        Debug.Log(velocity.x);
+   
             animator.SetFloat("yVelocity", velocity.y);
       
     }

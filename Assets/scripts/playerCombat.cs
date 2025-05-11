@@ -20,7 +20,15 @@ public class playerCombat : MonoBehaviour
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
         foreach (Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<enemyHP>().TakeDamage(attackDamage);
+            try
+            {
+                enemy.GetComponent<enemyHP>().TakeDamage(attackDamage);
+            }
+            catch
+            {
+                enemy.GetComponent<bossHP>().TakeDamage(attackDamage);
+                
+            }
         }
     }
     private void OnDrawGizmosSelected()

@@ -3,6 +3,7 @@ using UnityEngine;
 public class playerHealth : MonoBehaviour
 {
     public Healthbar healthBar;
+    public GameObject gameOverScreen;
 
     public int maxHealth = 100;
     public int currentHealth;
@@ -13,6 +14,7 @@ public class playerHealth : MonoBehaviour
     private Color originalColor;
     void Start()
     {
+        gameOverScreen.SetActive(false);
         sr = GetComponent<SpriteRenderer>();
         originalColor = sr.color;
         currentHealth = maxHealth;
@@ -46,6 +48,8 @@ public class playerHealth : MonoBehaviour
         if (currentHealth <= 0)
         {
             animator.SetBool("isDead", true);
+            gameOverScreen.SetActive(true);   
+            
             
         }
         else

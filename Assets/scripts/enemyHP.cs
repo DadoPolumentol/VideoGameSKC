@@ -8,6 +8,7 @@ public class enemyHP : MonoBehaviour
     public Animator animator;
     void Start()
     {
+       
         currentHealth = maxHealth;
     }
 
@@ -34,6 +35,7 @@ public class enemyHP : MonoBehaviour
         if (currentHealth <= 0)
         {
             animator.SetBool("isDead",true);
+            
             GetComponent<Collider2D>().enabled = false;
             try
             {
