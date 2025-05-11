@@ -2,15 +2,21 @@ using UnityEngine;
 
 public class Boss_manager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public GameObject winCanvas;  // The Canvas to show when both bosses are dead
+    private int deadBossCount = 0;
+    private void Start()
     {
-        
+        winCanvas.SetActive(false);
     }
-
-    // Update is called once per frame
-    void Update()
+    // Call this when a boss dies
+    public void BossDied()
     {
-        
+        deadBossCount++;
+
+        if (deadBossCount >= 2)
+        {
+            Debug.Log("Both bosses are dead!");
+            winCanvas.SetActive(true);
+        }
     }
 }

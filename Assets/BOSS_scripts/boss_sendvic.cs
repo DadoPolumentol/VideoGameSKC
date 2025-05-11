@@ -16,6 +16,7 @@ public class boss_sendvic : StateMachineBehaviour
     Transform boss;
     Rigidbody2D rb;
     private float timer;
+    public float cadence = 3f;
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
        player1 = GameObject.FindGameObjectWithTag("Player").transform;
@@ -29,7 +30,7 @@ public class boss_sendvic : StateMachineBehaviour
     {
       
         timer += Time.deltaTime;
-        if (timer > 3 && Vector2.Distance(player1.position, boss.position) <10f)
+        if (timer > cadence && Vector2.Distance(player1.position, boss.position) <10f)
         {
             timer = 0;
             Shoot();

@@ -30,7 +30,7 @@ public class playerHealth : MonoBehaviour
         if (collision.gameObject.layer == LayerMask.NameToLayer(enemyLayerName))
         {
          
-            TakeDamage(5);
+            TakeDamage(3);
         }
  
     }
@@ -39,7 +39,7 @@ public class playerHealth : MonoBehaviour
         if (other.gameObject.layer == LayerMask.NameToLayer(sendvicLayerName))
         {
           
-            TakeDamage(10);
+            TakeDamage(5);
             Destroy(other.gameObject);
         }
     }

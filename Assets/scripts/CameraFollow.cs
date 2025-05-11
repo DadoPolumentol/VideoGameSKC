@@ -10,7 +10,8 @@ public class CameraFollow : MonoBehaviour
 
     public CinemachineCamera virtualCamera;  // Reference to the Cinemachine Virtual Camera
     public Transform player;                        // Reference to the Player
-    public Transform boss;                          // Reference to the Boss
+    public Transform boss;
+    public Transform boss1;                        // Reference to the Boss
     public float zoomDistance = 10f;
     public float zoomSpeed = 3f;                    // Speed of the zoom effect
     float targetORTHO = 10f;
@@ -23,6 +24,16 @@ public class CameraFollow : MonoBehaviour
     void Update()
     {
         float distanceToBoss = Vector3.Distance(player.position, boss.position);
+        
+        float distanceToBoss1 = Vector3.Distance(player.position, boss1.position);
+        if (distanceToBoss < distanceToBoss1)
+        {
+            distanceToBoss = Vector3.Distance(player.position, boss.position);
+        }
+        else
+        {
+           distanceToBoss = Vector3.Distance(player.position, boss1.position);
+        }
 
         // If the player is within a certain range of the boss, zoom out
         if (distanceToBoss <= zoomDistance)
