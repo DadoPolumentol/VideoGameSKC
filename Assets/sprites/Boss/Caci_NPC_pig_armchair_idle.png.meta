@@ -154,6 +154,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -522,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Caci_NPC_pig_armchair_idle_0: 1439134043684362961
+      Caci_NPC_pig_armchair_idle_1: -5110259268883823977
+      Caci_NPC_pig_armchair_idle_10: 7900746306868364554
+      Caci_NPC_pig_armchair_idle_11: 3527131186918300309
+      Caci_NPC_pig_armchair_idle_12: 3819791858927665745
+      Caci_NPC_pig_armchair_idle_13: -3476567024964779318
+      Caci_NPC_pig_armchair_idle_14: 5705036605737712793
+      Caci_NPC_pig_armchair_idle_15: 3885434954761266269
+      Caci_NPC_pig_armchair_idle_2: -4440038159624302825
+      Caci_NPC_pig_armchair_idle_3: 309855524187191036
+      Caci_NPC_pig_armchair_idle_4: -4447437190924751880
+      Caci_NPC_pig_armchair_idle_5: 8044173908515517180
+      Caci_NPC_pig_armchair_idle_6: -6875352653212247086
+      Caci_NPC_pig_armchair_idle_7: -5220275919522963038
+      Caci_NPC_pig_armchair_idle_8: 2981523309620458556
+      Caci_NPC_pig_armchair_idle_9: 6637462661736211295
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
