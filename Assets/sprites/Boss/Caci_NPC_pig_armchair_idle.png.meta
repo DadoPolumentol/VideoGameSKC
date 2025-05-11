@@ -1,37 +1,55 @@
 fileFormatVersion: 2
-guid: b66f7a50b137bbe44a4083cc0262b820
+guid: 3b955f075fdf2964ea0fe208a284fc51
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7166666073918593910
-    second: Dog_forward_idle_0
+      213: 1439134043684362961
+    second: Caci_NPC_pig_armchair_idle_0
   - first:
-      213: -2271202242194955950
-    second: Dog_forward_idle_1
+      213: -5110259268883823977
+    second: Caci_NPC_pig_armchair_idle_1
   - first:
-      213: 291062440790260570
-    second: Dog_forward_idle_2
+      213: -4440038159624302825
+    second: Caci_NPC_pig_armchair_idle_2
   - first:
-      213: -7366743357597673093
-    second: Dog_forward_idle_3
+      213: 309855524187191036
+    second: Caci_NPC_pig_armchair_idle_3
   - first:
-      213: -2843373014904285060
-    second: Dog_forward_idle_4
+      213: -4447437190924751880
+    second: Caci_NPC_pig_armchair_idle_4
   - first:
-      213: 3241749875066718091
-    second: Dog_forward_idle_5
+      213: 8044173908515517180
+    second: Caci_NPC_pig_armchair_idle_5
   - first:
-      213: -446030719781430381
-    second: Dog_forward_idle_6
+      213: -6875352653212247086
+    second: Caci_NPC_pig_armchair_idle_6
   - first:
-      213: 8354562187483642286
-    second: Dog_forward_idle_7
+      213: -5220275919522963038
+    second: Caci_NPC_pig_armchair_idle_7
   - first:
-      213: -1240361833707213450
-    second: Dog_forward_idle_8
+      213: 2981523309620458556
+    second: Caci_NPC_pig_armchair_idle_8
   - first:
-      213: -2647155492985227942
-    second: Dog_forward_idle_9
+      213: 6637462661736211295
+    second: Caci_NPC_pig_armchair_idle_9
+  - first:
+      213: 7900746306868364554
+    second: Caci_NPC_pig_armchair_idle_10
+  - first:
+      213: 3527131186918300309
+    second: Caci_NPC_pig_armchair_idle_11
+  - first:
+      213: 3819791858927665745
+    second: Caci_NPC_pig_armchair_idle_12
+  - first:
+      213: -3476567024964779318
+    second: Caci_NPC_pig_armchair_idle_13
+  - first:
+      213: 5705036605737712793
+    second: Caci_NPC_pig_armchair_idle_14
+  - first:
+      213: 3885434954761266269
+    second: Caci_NPC_pig_armchair_idle_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -124,19 +142,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -153,101 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dog_forward_idle_0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 63
-        width: 14
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a842d382d23ea8c90800000000000000
-      internalID: -7166666073918593910
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dog_forward_idle_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 51
-        width: 14
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25126e418911b70e0800000000000000
-      internalID: -2271202242194955950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dog_forward_idle_2
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 81
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5bf2ce6fbf0a0400800000000000000
-      internalID: 291062440790260570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dog_forward_idle_3
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 31
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b791cea62f114c990800000000000000
-      internalID: -7366743357597673093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dog_forward_idle_4
+      name: Caci_NPC_pig_armchair_idle_0
       rect:
         serializedVersion: 2
         x: 10
-        y: 50
-        width: 12
-        height: 14
+        y: 289
+        width: 46
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c78d2bace4f4a88d0800000000000000
-      internalID: -2843373014904285060
+      spriteID: 1da5af1b9c4d8f310800000000000000
+      internalID: 1439134043684362961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog_forward_idle_5
+      name: Caci_NPC_pig_armchair_idle_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 31
-        width: 14
-        height: 19
+        x: 74
+        y: 289
+        width: 46
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b87c40af5520dfc20800000000000000
-      internalID: 3241749875066718091
+      spriteID: 79248003546b419b0800000000000000
+      internalID: -5110259268883823977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog_forward_idle_6
+      name: Caci_NPC_pig_armchair_idle_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 0
-        width: 14
-        height: 18
+        x: 138
+        y: 289
+        width: 48
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +217,64 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39b148c6c616fc9f0800000000000000
-      internalID: -446030719781430381
+      spriteID: 71f0a6271d0d162c0800000000000000
+      internalID: -4440038159624302825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog_forward_idle_7
+      name: Caci_NPC_pig_armchair_idle_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 289
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6bed225f3dc4400800000000000000
+      internalID: 309855524187191036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 289
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fba11a30778742c0800000000000000
+      internalID: -4447437190924751880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_5
       rect:
         serializedVersion: 2
         x: 10
-        y: 18
-        width: 12
-        height: 14
+        y: 193
+        width: 46
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,20 +283,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ea97fde8b0e51f370800000000000000
-      internalID: 8354562187483642286
+      spriteID: cf27888cc85a2af60800000000000000
+      internalID: 8044173908515517180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog_forward_idle_8
+      name: Caci_NPC_pig_armchair_idle_6
       rect:
         serializedVersion: 2
-        x: 41
-        y: 0
-        width: 14
-        height: 18
+        x: 74
+        y: 193
+        width: 45
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67dede4eb7959cee0800000000000000
-      internalID: -1240361833707213450
+      spriteID: 2db9eb76037d590a0800000000000000
+      internalID: -6875352653212247086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog_forward_idle_9
+      name: Caci_NPC_pig_armchair_idle_7
       rect:
         serializedVersion: 2
-        x: 42
-        y: 17
-        width: 12
-        height: 14
+        x: 138
+        y: 193
+        width: 45
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,8 +327,184 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a553467ba1a634bd0800000000000000
-      internalID: -2647155492985227942
+      spriteID: 2a1ee4b95badd87b0800000000000000
+      internalID: -5220275919522963038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 193
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34797f37af706920800000000000000
+      internalID: 2981523309620458556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 193
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a4b2cf110d1c50800000000000000
+      internalID: 6637462661736211295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 97
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a054e59f7e615ad60800000000000000
+      internalID: 7900746306868364554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 97
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a97708023e2f030800000000000000
+      internalID: 3527131186918300309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 97
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15200532570a20530800000000000000
+      internalID: 3819791858927665745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 97
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2432fd5b0c0cfc0800000000000000
+      internalID: -3476567024964779318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 97
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cb89bf09c5c2f40800000000000000
+      internalID: 5705036605737712793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caci_NPC_pig_armchair_idle_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546e646186dbe530800000000000000
+      internalID: 3885434954761266269
       vertices: []
       indices: 
       edges: []
@@ -385,17 +522,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Dog_forward_idle_0: -7166666073918593910
-      Dog_forward_idle_1: -2271202242194955950
-      Dog_forward_idle_2: 291062440790260570
-      Dog_forward_idle_3: -7366743357597673093
-      Dog_forward_idle_4: -2843373014904285060
-      Dog_forward_idle_5: 3241749875066718091
-      Dog_forward_idle_6: -446030719781430381
-      Dog_forward_idle_7: 8354562187483642286
-      Dog_forward_idle_8: -1240361833707213450
-      Dog_forward_idle_9: -2647155492985227942
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
